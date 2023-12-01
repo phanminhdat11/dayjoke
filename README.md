@@ -6,3 +6,5 @@ App Day Joke
 
 ![Alt text](/dayjoke/assets/image/home_screen_2.png)
 
+| ------------- | ------------- |
+| ![Alt text](/dayjoke/assets/image/home_screen_2.png "Optional title") | ![Alt text](dayjoke/assets/image/home_sceen.png "Optional title")  |
