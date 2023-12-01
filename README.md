@@ -6,5 +6,5 @@ App Day Joke
 
 ![Alt text](/dayjoke/assets/image/home_screen_2.png)
 
-![Alt text](/dayjoke/assets/image/logo.png)
+![Alt text](/dayjoke/assets/image/web_home_screen.png)
 
